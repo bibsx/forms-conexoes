@@ -56,7 +56,6 @@ header{
 .dados-pessoais{
     margin-bottom: 15px;
     border-radius: 1em;
-
 }
 .transportes{
     margin-bottom: 15px;
@@ -79,6 +78,8 @@ header{
     font-size: 1.2em;
     padding: 1em 3em;
     border-radius: 5em;
+    border: none;
+    cursor: pointer;
 }
 
 input {
@@ -86,6 +87,7 @@ input {
     border: none;
     margin: 5px;
     padding: 2px 10px;
+    cursor: pointer;
 }
 
 
